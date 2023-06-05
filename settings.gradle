@@ -16,4 +16,3 @@ rootProject.name = "NiceMvvm"
 include ':app'
 include ':base-framework'
 include ':utils-framework'
-include ':buldSrc'
